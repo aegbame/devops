@@ -1,0 +1,10 @@
+sssd:x:981:979:User for sssd:/:/sbin/nologin
+colord:x:980:978:User for colord:/var/lib/colord:/sbin/nologin
+gdm:x:42:42::/var/lib/gdm:/sbin/nologin
+rpcuser:x:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin
+gnome-initial-setup:x:979:977::/run/gnome-initial-setup/:/sbin/nologin
+sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+insights:x:978:976:Red Hat Insights:/var/lib/insights:/sbin/nologin
+avahi:x:70:70:Avahi mDNS/DNS-SD Stack:/var/run/avahi-daemon:/sbin/nologin
+tcpdump:x:72:72::/:/sbin/nologin
+aegbame:x:1000:1000:Assima Egbame:/home/aegbame:/bin/bash
